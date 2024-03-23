@@ -1,0 +1,2 @@
+# NewProject
+Trying Git
